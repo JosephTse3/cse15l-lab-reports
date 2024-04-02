@@ -6,6 +6,8 @@
 this isnt code
 ```
 
+`This is inline code` yes
+
 [Youtube](https://youtube.com)
 
 ---
