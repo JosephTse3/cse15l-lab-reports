@@ -1,6 +1,6 @@
 # **Hello, world!**
 
-# *I am italics and heading 2*
+## *I am italics and heading 2*
 
 ```
 this isnt code
