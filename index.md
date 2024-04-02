@@ -6,7 +6,7 @@
 this isnt code
 ```
 
-[Link](https://youtube.com)
+[Youtube](https://youtube.com)
 
 ---
 
