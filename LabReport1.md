@@ -24,12 +24,14 @@ Include:
 ## Absolute Path
 
 `/Users/josephtse/CSE8B/CSE15L`
+`/Users/josephtse`
+`/Users/josephtse/CSE8B/CSE15L/lecture1/messages`
 
 ## Explanation
 
 `cd`
 
-I got this output because when you have no arguments accompanying the cd command in the terminal, what it does is it just moves you back a directory, 
+I got this output because when you have no arguments accompanying the cd command in the terminal, what it does is move you to the home directory, 
 or going back to the parent directory.
 
 This output is not an error.
@@ -96,7 +98,7 @@ to list out.
 
 I got this output because without any arguments, `cat` cannot run properly.
 
-This output is an error because without any arguments, `cat` will infinitely run until forcibly shut down using `ctrl + c`
+Although this is not an error, `cat` will infinitely run until forcibly shut down using `ctrl + c`
 
 `cat lecture1`
 
