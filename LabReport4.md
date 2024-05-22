@@ -36,6 +36,7 @@ All I did was connect to ieng6 servers, and then opened up all the files I had s
 ### Keylog:
 `<LMB>`, `<LMB>`, `<LMB>` (Three clicks to copy SSH url), 
 `<LMB>`, `git<space>clone<space>`, `<CMD + V>`, `<enter>` (Enter terminal, cloned fork of repo, entered)
+`clear`, `<enter>` (clear terminal)
 
 ---
 
@@ -43,8 +44,9 @@ All I did was connect to ieng6 servers, and then opened up all the files I had s
 ![Step 6, Running the failed tests](Step6Lab7.png)
 
 ### Keylog:
-"cd lab7", `<enter>` (Enter `lab7` directory),
+`cd<space>lab7`, `<enter>` (Enter `lab7` directory),
 `bash<space>test.sh`, `<enter>` (Run the bash file that holds the compiler and the test line for the terminal)
+`clear`, `<enter>` (clear terminal)
 
 ---
 
@@ -57,6 +59,7 @@ All I did was connect to ieng6 servers, and then opened up all the files I had s
 `vim<space>ListExamples.java`, `<enter>` (Use vim editor to enter the test file),
 `<LMB>`, `i`, `<backspace>`, `2`, `<esc>` (Edits the index1 to become index2 by just entering location, entering insert mode, exit after changes)
 `:wq`, `<enter>` (saves the file and exit back to terminal)
+`clear`, `<enter>` (clear terminal)
 
 ---
 
@@ -65,6 +68,7 @@ All I did was connect to ieng6 servers, and then opened up all the files I had s
 
 ### Keylog:
 `bash<space>test.sh`, `<enter>` (Compile and run the tests again via bash file)
+`clear`, `<enter>` (clear terminal)
 
 ---
 
