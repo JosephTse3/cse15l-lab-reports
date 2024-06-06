@@ -30,7 +30,7 @@ Steps 4-9:
 
 ### Keylog:
 `<LMB>`, `<LMB>`, `<LMB>`, `<LMB>`, `<LMB>`
-All I did was connect to ieng6 servers, and then opened up all the different files I had stored using 4 clicks. 
+All I did was connect to ieng6 servers, and then opened up all the different files I had stored using 5 clicks. 
 - The files I had stored were all from previous labs.
 - The first 3 clicks were shown in the top 2 images shown above, where they were used to connect to the ieng6 servers by clicking on the bottom left blue icon, then clicking on Connect to Host then ieng6 server in the submenu that popped up
 - The fourth click was used to press "Open" in order to show a menu that allows me to open up all of my files that are within the ieng6 servers under my user, all collected from previous labs.
