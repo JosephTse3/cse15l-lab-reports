@@ -22,11 +22,20 @@ Steps 4-9:
 ---
 
 ## Step 4: Log into ieng6
-![Step 4, logging into ieng6](Step4Lab7.png)
+![Step 4, logging into ieng6 Part 1](Lab7ConnectToHost.png)
+![Step 4, logging into ieng6 Part 2](Lab7ConnectHost.png)
+![Step5, logging into ieng6 Part 3](Lab7OpenFiles.png)
+![Step 4, logging into ieng6 Part 4](Step4Lab7.png)
+
 
 ### Keylog:
-`<LMB>`, `<LMB>`, `<LMB>`, `<LMB>`
-All I did was connect to ieng6 servers, and then opened up all the files I had stored using 4 clicks.
+`<LMB>`, `<LMB>`, `<LMB>`, `<LMB>`, `<LMB>`
+All I did was connect to ieng6 servers, and then opened up all the different files I had stored using 4 clicks. 
+- The files I had stored were all from previous labs.
+- The first 3 clicks were shown in the top 2 images shown above, where they were used to connect to the ieng6 servers by clicking on the bottom left blue icon, then clicking on Connect to Host then ieng6 server in the submenu that popped up
+- The fourth click was used to press "Open" in order to show a menu that allows me to open up all of my files that are within the ieng6 servers under my user, all collected from previous labs.
+- The fifth click was just to click "Ok" in order to actually open the files previously mentioned in the explorer.
+
 
 ---
 
@@ -73,11 +82,12 @@ All I did was connect to ieng6 servers, and then opened up all the files I had s
 ---
 
 ## Step 9: Commit and push the resulting change to your Github account
-![Step 9, commiting changes](Step9Part1Lab7.png)
+![Step 9, add and commiting changes](Lab7Step9GitAdd.png)
 
 ![Step 9, pushing changes](Step9Part2Lab7.png)
 
 ### Keylog:
+`git<space>add<space>.`, `<enter>` (Add all file changes to the git repo)
 `git<space>commit<space>*.java`, `<enter>` (Commit changes to git repo)
 `changes<space>made<space>to<space>file`, `<esc>`, `:wq`, `<enter>` (commit message in vim editor)
 `git<space>push`, `<enter>` (pushed changes to git repo)
